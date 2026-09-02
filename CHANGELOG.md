@@ -4,7 +4,11 @@ All notable public changes to DNS Monitor are documented here.
 
 ## [Unreleased]
 
-No public changes yet.
+### Maintenance
+
+- Organize regression test filenames by behavior.
+- Clarify contributor and installation documentation, including the MIT license.
+- Repair GitHub issue forms and expand formatting, shell and opkg package checks in CI.
 
 ## [0.1.0] - 2026-09-02
 

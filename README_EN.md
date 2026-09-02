@@ -186,7 +186,13 @@ Useful endpoints include:
 
 ## Versioning
 
-The public project history starts at **v0.1.0**. Earlier internal development builds used a separate pre-public version sequence and are intentionally not part of the public release history.
+The first public release is **v0.1.0**. See [CHANGELOG](CHANGELOG.md) for changes.
+
+## Development and feedback
+
+See [CONTRIBUTING](CONTRIBUTING.md) for the repository layout, checks and opkg package build.
+Use an [issue form](https://github.com/Fifth-Ace/dns-monitor/issues/new/choose) to report a bug.
+See [SECURITY](SECURITY.md) for web access limitations and vulnerability reporting.
 
 ## License
 

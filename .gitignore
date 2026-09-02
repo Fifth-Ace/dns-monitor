@@ -4,6 +4,11 @@ dns-monitor-linux-arm64
 *.tar.gz
 *.zip
 *.sha256
+*.ipk
+/Packages
+/Packages.gz
+*.test
+/coverage.out
 
 # Logs / runtime
 *.log

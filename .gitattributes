@@ -6,3 +6,5 @@ S90dns-monitor text eol=lf
 *.css text eol=lf
 *.html text eol=lf
 *.md text eol=lf
+*.yml text eol=lf
+packaging/opkg/* text eol=lf
